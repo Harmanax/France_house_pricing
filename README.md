@@ -6,3 +6,5 @@ ML to predict the price of a house or a building, and also give an interactive m
 ## interactive map
 the ppt file is to open the interactive map => use chrome as default (and it's quite heavy so it take more or less 1-2 min to fully download the map)
 click on the differents year to show the price for a specific year.
+
+the powerpoint is only here to have the map (which is too big to be put alone in git)
